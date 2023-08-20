@@ -1,0 +1,28 @@
+{
+  "name": "apiautomation",
+  "version": "1.0.0",
+  "description": "tugas sanbercode api automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000 --reporter mochawesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhyaregita/apiautomation.git"
+  },
+  "keywords": [
+    "api",
+    "automation"
+  ],
+  "author": "ardhya regita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardhyaregita/apiautomation/issues"
+  },
+  "homepage": "https://github.com/ardhyaregita/apiautomation#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
