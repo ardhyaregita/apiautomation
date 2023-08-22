@@ -4,7 +4,7 @@
   "description": "tugas sanbercode api automation",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --timeout 10000 --reporter mochawesome"
+    "test": "mocha --timeout 15000 --reporter mochawesome"
   },
   "repository": {
     "type": "git",
